@@ -22,7 +22,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg nav">
         <div className="nav-item">
           <Link className="header-title" to="/">
-            Expense Management
+            Expense Management System
           </Link>
         </div>
         <div className="d-flex">
